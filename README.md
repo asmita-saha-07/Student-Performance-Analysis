@@ -22,4 +22,15 @@ Sample data is used in the script:
 - Screen time per day  
 
 ## How to Run
-1. Install Matplotlib if not already installed:
+1. Install Matplotlib if not already installed: pip install matplotlib
+2. Run the Python script: student_performance_analysis.py
+
+## Output
+The program generates 4 graphs showing relationships between:
+- Study time and marks  
+- Study time and free time  
+- Study time and sleep  
+- Study time and screen time  
+
+## Conclusion
+This analysis helps understand how balancing study and lifestyle factors can improve academic performance.
