@@ -1,22 +1,25 @@
-#Student Performance Analysis
+# Student Performance Analysis
 
-This project visualizes how daily habits impact academic performance using Python and Matplotlib. It compares study hours with marks, free time, sleep, and screen time through multiple plots.
+## Overview
+This project analyzes student performance by visualizing how daily habits like study time, sleep, free time, and screen time affect marks using Python and Matplotlib.
 
-#Features
+## Features
+- Compares hours studied vs marks scored  
+- Analyzes free time, sleep, and screen time trends  
+- Uses multiple subplots for clear visualization  
+- Simple and easy-to-understand graphs  
 
-Compares hours studied vs marks scored
-Shows impact on free time, sleep, and screen time
-Uses subplots for clear visualization
+## Technologies Used
+- Python  
+- Matplotlib  
 
-#Requirements
+## Dataset
+Sample data is used in the script:
+- Hours studied per day  
+- Marks scored  
+- Free hours per day  
+- Sleep hours per day  
+- Screen time per day  
 
-Python 3
-Matplotlib
-
-#Usage
-
-Run the script to generate graphs and observe how increasing study time improves marks while reducing leisure, sleep, and screen usage.
-
-#Insight
-
-Helps understand the balance between study and lifestyle factors affecting student performance.
+## How to Run
+1. Install Matplotlib if not already installed:
